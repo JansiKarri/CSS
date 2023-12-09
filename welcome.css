@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+/* h1{
+    color:blue;
+    font-size:100px;
+    font-weight:200;
+    font-family:Arial, Helvetica, sans-serif;
+    
+} */
+p{
+    max-width:100px;
+    font-size:100px;
+
+}
+a{
+    font-size:100px; 
+    text-decoration: none;
+    color: chocolate;
+}
+h1{
+    background-color: yellowgreen;
+    color: blueviolet;
+    max-width: 200px;
+    /* padding-left: 20px;  */
+    margin-left: 20px;
+    /* padding: 20px 0px 20px 0px clockwise -TRBL ;
+    padding: 20px 20px; (tb) (lr) */
+    margin: 80px 40px;
+
+}
